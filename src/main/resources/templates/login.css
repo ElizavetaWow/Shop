@@ -2,12 +2,15 @@
     width: 500px;
     height: 500px;
     margin: 0 auto;
-    background: #F8F8FF;
+    background: #F5F5F5;
     background-size: cover;
     border-radius: 4px;
 	border: 2px solid black;
 	margin-top: 100px;
 	
+}
+body{
+	background: url(images/ap.png) no-repeat;
 }
 .form_auth_block_content{
   padding-top: 5%;

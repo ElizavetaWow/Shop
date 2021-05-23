@@ -9,7 +9,7 @@ body {
 }
 
 .header{
-    background: url(images/ap.png) no-repeat;
+    background: url(../images/ap.png) no-repeat;
 }
 
 .header .row{
